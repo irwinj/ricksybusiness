@@ -1,0 +1,255 @@
+header {
+	text-align: center;
+}
+#button1 {
+	font-size: 10px;
+	width: 100px;
+}
+.gameboard {
+	background-image: url('images/worldmap.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-position: center;
+	height: 100%;
+	max-height: 800px;
+	max-width: 1280px;
+	margin: 0 auto;
+	min-height:800px;
+	min-width: 1280px;
+	text-align: center;
+}
+
+/*blinker animation when country is selected
+$('.player').addClass('blink-me'
+find a way to clear country color too
+*/
+h1 {
+	font-size: 28px;
+	text-align: center;
+	color: #F9EAA9;
+}
+#status {
+	font-size: 20px;
+	color:#F9EAA9;
+}
+
+.countries {
+	font-size: 20px;
+	position: absolute;
+	cursor: pointer;
+	border-radius:9px;
+	opacity: .8;
+	color: black;
+	font-weight: bold;
+	background-color: whitesmoke;
+}
+#alaska {
+	margin-top: 7px;
+	margin-left: 90px;
+	
+}
+#northwestTerritory {
+	margin-top: 9px;
+	margin-left: 214px;
+	
+}
+#alberta {
+	margin-top: 57px;
+	margin-left: 214px;
+	
+}
+#ontario {
+	margin-top: 40px;
+	margin-left: 300px;
+	
+}
+#quebec {
+	margin-top: 58px;
+	margin-left: 373px;
+	
+} 
+#greenland {
+	margin-top: -20px;
+	margin-left: 478px;
+	
+}
+#westernUnitedStates {
+	margin-top: 124px;
+	margin-left: 259px;
+	
+}
+#easternUnitedStates {
+	margin-top: 131px;
+	margin-left: 335px;
+	
+}
+#centralAmerica {
+	margin-top: 196px;
+	margin-left: 280px;
+	
+}
+#venezuela {
+	margin-top: 290px;
+	margin-left: 396px;
+	
+}
+#brazil {
+	margin-top: 344px;
+	margin-left: 463px;
+	
+}
+#argentina {
+	margin-top: 417px;
+	margin-left: 414px;
+	
+}
+#northAfrica {
+	margin-top: 234px;
+	margin-left: 628px;
+	
+}
+#egypt {
+	margin-top: 204px;
+	margin-left: 723px;
+	
+}
+#congo {
+	margin-top: 307px;
+	margin-left: 692px;
+	
+}
+#eastAfrica {
+	margin-top: 332px;
+	margin-left: 748px;
+	
+}
+#madagascar {
+	margin-top: 390px;
+	margin-left: 810px;
+	
+}
+#southAfrica {
+	margin-top: 416px;
+	margin-left: 716px;
+	
+}
+#iceland {
+	margin-top: 29px;
+	margin-left: 564px;
+	
+}
+#greatBritain {
+	margin-top: 51px;
+	margin-left: 637px;
+	
+}
+#scandinavia {
+	margin-top: 0px;
+	margin-left: 716px;
+	
+}
+#northernEurope {
+	margin-top: 76px;
+	margin-left: 682px;
+	
+}
+#ukraine {
+	margin-top: 57px;
+	margin-left: 765px;
+	
+}
+#westernEurope {
+	margin-top: 123px;
+	margin-left: 617px;
+	
+}
+#southernEurope {
+	margin-top: 106px;
+	margin-left: 692px;
+	
+}
+#russia {
+	margin-top: 29px;
+	margin-left: 858px;
+	
+}
+#siberia {
+	margin-top: 15px;
+	margin-left: 956px;
+	
+}
+#yakutsk {
+	margin-top: -32px;
+	margin-left: 1058px;
+	
+}
+#kamchatka {
+	margin-top: 3px;
+	margin-left: 1178px;
+	
+}
+#irkutsk {
+	margin-top: 37px;
+	margin-left: 1050px;
+	
+}
+#mongolia {
+	margin-top: 104px;
+	margin-left: 1061px;
+	
+}
+#japan {
+	margin-top: 159px;
+	margin-left: 1125px;
+	
+}
+#china {
+	margin-top: 148px;
+	margin-left: 987px;
+	
+}
+#afghanistan {
+	margin-top: 99px;
+	margin-left: 846px;
+	
+}
+#middleEast {
+	margin-top: 168px;
+	margin-left: 786px;
+	
+}
+#india {
+	margin-top: 198px;
+	margin-left: 909px;
+	
+}
+#siam {
+	margin-top: 224px;
+	margin-left: 1000px;
+	
+}
+#indonesia {
+	margin-top: 319px;
+	margin-left: 1032px;
+	
+}
+#newGuinea {
+	margin-top: 314px;
+	margin-left: 1160px;
+	
+}
+#westernAustralia {
+	margin-top: 379px;
+	margin-left: 1032px;
+	
+}
+#easternAustralia {
+	margin-top: 420px;
+	margin-left: 1142px;
+	
+}
+#LotR {
+	margin-top: 471px;
+	margin-left: 1242px;
+	
+}
